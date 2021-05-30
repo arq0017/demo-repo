@@ -9,3 +9,7 @@ How to post projects and work on git
 ## Suheader
 
 finally connected system .
+
+## Local Development 
+
+1. opening html document 
